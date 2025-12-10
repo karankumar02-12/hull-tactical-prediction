@@ -209,7 +209,6 @@ hull-tactical-prediction/
 Open to opportunities in **Data Science** and **Quantitative Finance**!
 
 - **GitHub**: [@karankumar02-12](https://github.com/yourusername)
-- **LinkedIn**: [Karan Kumar](https://linkedin.com/in/yourprofile)
 - **Email**: karan.kumar021299@gmail.com
 
 ---
