@@ -1,6 +1,6 @@
 # Hull Tactical Market Prediction 📈
 
-![Competition](https://img.shields.io/badge/Kaggle-Competition-20BEFF?logo=kaggle&logoColor=white)
+![Competition](https://www.kaggle.com/competitions/hull-tactical-market-prediction/overviewlogo=kaggle&logoColor=white)
 ![Rank](https://img.shields.io/badge/Rank-1281%2F3382%20(Top%2038%25)-success)
 ![Score](https://img.shields.io/badge/Score-8.205-blue)
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
